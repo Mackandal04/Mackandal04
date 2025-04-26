@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mackandal04&label=Profile%20views&color=0e75b6&style=flat" alt="mackandal04" /> </p>
 
-- 🔭 I’m currently working on [Mazze Runners](https://github.com/Mackandal04/MazeRunners.git)
+- 🔭 I’m currently working on [Wall-E-Art Project](https://github.com/Mackandal04/Wall-E-Art-Project.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
